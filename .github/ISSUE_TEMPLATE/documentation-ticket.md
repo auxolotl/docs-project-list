@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Where in the documentation** 
-This could be a link or just a description of where it is. If it's new, describe the hypothetical location (i.e. a new repo, new page in wiki).
+This could be a link or just a description of where it is. If it's new, describe the hypothetical location (i.e. a new repo, new page in wiki). Remember to tag accordingly. 
 
 **What needs updating, and why?*
 A clear and concise description of what the problem is
